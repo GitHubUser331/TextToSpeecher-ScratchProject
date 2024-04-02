@@ -1,4 +1,4 @@
-# TextToSpeecher-ScratchProject
+# Text To Speecher (Scratch Project)
 Text To Speecher is a text to speech speaker that enables user to speak a word out. This project is made in <a href="https://scratch.mit.edu/">Scratch.</a>
 
 ## Changelog
