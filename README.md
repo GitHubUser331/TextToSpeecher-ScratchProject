@@ -17,7 +17,7 @@ Text To Speecher is a text to speech speaker that enables user to speak a word o
 
 ## Installation:
 ### For Windows
-● Download the latest release from <a href="">here.</a> You can choose the .zip file for the portable version or the .exe file for the installer.
+● Download the latest release from <a href="https://github.com/GitHubUser331/TextToSpeecher-ScratchProject/releases">here.</a> You can choose the .zip file for the portable version or the .exe file for the installer.
 
 ● Install by following the steps according to the program variant.
 
