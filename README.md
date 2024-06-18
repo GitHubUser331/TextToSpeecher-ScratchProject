@@ -32,7 +32,7 @@ Text To Speecher is a text to speech speaker that enables user to speak a word o
 This project was fully made with Scratch and packaged in HTML with <a href="https://sheeptester.github.io/htmlifier/">HTMLifier by SheepTester.</a> 
 The converted HTML file was further packaged into an APK file by the <a href="https://github.com/GitHubUser331/HTML-WebView-AppTemplate">HTML WebView App Template</a> and the windows version was directly converted to an installer file through <a href="https://packager.turbowarp.org/">TurboWarp.</a> You can use these resources and the provided files here to modify this application.
 
-### NOTE: This project is still active but the updates maybe delayed due to low maintenance. You can contribute anything to this project through this repo.
+### NOTE: This project is still active but the updates may be delayed due to low maintenance. You can contribute anything to this project through this repo.
 
 #### Project licensed by MIT License.
 
